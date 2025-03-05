@@ -28,24 +28,3 @@ Importing in quick CSS:
 ```
 
 </details>
-
-# [HideNitroUpsellV2](https://github.com/tom22k/discord-css/blob/main/Themes/HideNitroUpsellV2.css)
-Hide (or limit, where hiding is not possible) all the annoying Nitro upsell in Discord.
-
-A directory with images of the hidden elements can be found [here](https://github.com/tom22k/discord-css/blob/main/Themes/NitroUpsellDirectory/README.md).
-
-**Note: This was inspired by Vendicated, msm816, and D3SOX's [Hide Nitro Upselling theme](https://github.com/D3SOX/complementary-discord-theme/blob/master/hide-nitro-upselling.theme.css).**
-
-<details> <summary><b>How to use</b></summary>
-
-Copy link to paste in online themes:
-```
-https://raw.githubusercontent.com/tom22k/discord-css/main/Themes/HideNitroUpsellV2.css
-```
-
-Importing in quick CSS:
-```css
-@import url("https://raw.githubusercontent.com/tom22k/discord-css/main/Themes/HideNitroUpsellV2.css");
-```
-
-</details>
